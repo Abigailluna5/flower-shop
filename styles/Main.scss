@@ -1,2 +1,18 @@
 @use "partials/colors";
 @use "vendor/normalize";
+
+.h4{
+    color: colors.$secondary-font-color;
+}
+a{
+    color:colors.$secondary-font-color;
+}
+nav{
+    background-color:colors.$darker-background;
+}
+.p{
+ color:colors.$primary-font-color
+}
+.copy{
+    color:colors.$dark-background
+}

@@ -306,4 +306,24 @@ template {
  */
 [hidden] {
   display: none;
+}
+
+.h4 {
+  color: #DB8D33;
+}
+
+a {
+  color: #DB8D33;
+}
+
+nav {
+  background-color: #150300;
+}
+
+.p {
+  color: #575757;
+}
+
+.copy {
+  color: #414141;
 }/*# sourceMappingURL=main.css.map */
